@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# TVmaze
+
+# ALXTVENZO
 
 > TVmaze is a website about TV famous shows, it presents details about different shows and gives the user the ability to like or comment on their preferred show. The website is based on an [external API](https://www.tvmaze.com/api) that provides all shows details.
 
